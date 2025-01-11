@@ -1,8 +1,6 @@
 # Table of contents
 
-* [о xSignals](README.md)
-* [Панель индикаторов](panel-indikatorov.md)
-* [Структура сигнала](struktura-signala.md)
+* [Структура сигнала](README.md)
 * [Тепловая карта & Сила сигнала](teplovaya-karta-and-sila-signala.md)
 * [Алгоритмы сигналов](algoritmy-signalov.md)
 * [Интеграция с брокерами](integraciya-s-brokerami.md)
@@ -13,4 +11,7 @@
   * [Ubuntu](ustanovka-xsignals/ubuntu.md)
 * [Термины](terminy.md)
 * [Индикаторы](indikatory.md)
-* [\_Формулировки](\_formulirovki.md)
+* [\_Формулировки](_formulirovki.md)
+* [Page 1](page-1/README.md)
+  * [о xSignals](page-1/o-xsignals.md)
+  * [Панель индикаторов](page-1/panel-indikatorov.md)
